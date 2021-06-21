@@ -1,4 +1,4 @@
-First_name,Last_name,ID
+First_name,Last_name,ID,Email,Start Date
 John,Doe,100
 Omar,Garcia,101
 Abdul,Ndiaye,102
@@ -11,7 +11,7 @@ Mamadu,Barro,108
 Eric,Domingo,109
 Sanjay,Gupta,110
 Yao,Zao,111
-Gay,Tou,112
+Gary,Tou,112
 Ellen,Johnson,113
 Alice,White,114
 Zach,Summer,115
